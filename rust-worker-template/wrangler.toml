@@ -1,0 +1,6 @@
+name = "Rust Worker Template"
+type = "rust"
+account_id = "" # "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+workers_dev = true
+route = "" # "*.example.com/*"
+zone_id = "" # "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"

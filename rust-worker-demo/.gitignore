@@ -1,0 +1,6 @@
+/target
+/pkg
+
+**/.*
+!.gitignore
+!.git

@@ -1,0 +1,15 @@
+{
+    "body_part": "script",
+    "bindings": [
+        {
+            "name": "wasm",
+            "type": "wasm_module",
+            "part": "wasmprogram"
+        }
+        {
+          "name": "Document",
+          "type": "kv_namespace",
+          "namespace_id": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        },
+    ]
+}
