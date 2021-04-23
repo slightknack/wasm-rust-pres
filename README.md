@@ -15,4 +15,7 @@ cargo install wrangler
 wrangler dev
 ```
 
-Once the recording of the talk has been uploaded, I'll add the recorded talk.
+### Talk Recording
+You can veiw the recorded talk [here](https://www.youtube.com/watch?v=7np8KroNnNs):
+
+[![A still image of the recording of the talk](https://img.youtube.com/vi/7np8KroNnNs/0.jpg)](http://www.youtube.com/watch?v=7np8KroNnNs)
